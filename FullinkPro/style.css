@@ -1,0 +1,21 @@
+body{
+    background-color: #212529;
+    color: white;
+}
+
+.custom-color-mine{
+    color: #6D8C00;
+}
+
+.custom-color-fnaf{
+    color: #A66A2C;
+}
+
+.custom-color-poke{
+    color: #AA1803;
+}
+
+.icon{
+    width: 64px;
+    height: 64px;
+}
